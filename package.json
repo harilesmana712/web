@@ -3,14 +3,16 @@
   "version": "1.0.0",
   "main": "index.js",
   
-"scripts": {
-  "start": "node wa-bot-server/server.js",
-  "test": "echo \"Error: no test specified\" && exit 1"
-}
+  "scripts": {
+    "start": "node wa-bot-server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
+  
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.12",
     "axios": "^1.7.9",
