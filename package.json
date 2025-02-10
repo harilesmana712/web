@@ -4,7 +4,7 @@
   "main": "index.js",
   
   "scripts": {
-  "start": "node server.js"
+  "start": "node wa-bot-server/server.js"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
